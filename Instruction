@@ -1,0 +1,13 @@
+1. Adding Live Sass compiler (vscode extension)
+2. Creating folder .vscode (in project folder) --> settings.json
+3. Creating sass folder --> main.scss (this is your main styles file, you will write all your styles in this file)
+4. Connecting main.min.css in index.html
+
+
+1. Variables:
+    - the syntax for declaring variable is the $ sign before the name and its value after the colon : '$color: tomato;'
+    - the usage example: 
+        body {
+            background-color: $color;
+        }
+2. 

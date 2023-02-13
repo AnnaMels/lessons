@@ -1,9 +1,0 @@
-1. Save all icons from Figma
-2. Creating sprite: Open icomoon --> icoMoon App --> import icons --> select icons --> generate svg --> download
-3. Optimizing sprite: open https://jakearchibald.github.io/svgomg/ --> open svg --> click on download button
-4. Sprite usage:         
-    <svg width="" height="">
-        <use href="path_to_sprite#id"></use>
-    </svg>
-5. To change color --> 'fill' property (instead of 'color')
-6. Check 'fill' property in sprite file and remove if needed

@@ -1,0 +1,19 @@
+// <div class="box">
+// <p class="text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque, pariatur.</p>
+// <a class="link" href="">Link</a>
+// </div>
+
+// $color: red;
+
+$color: blue;
+
+.box {
+    $color: red;
+    background-color: $color;
+}
+
+.text {
+    color: $color;
+}
+
+
